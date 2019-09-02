@@ -1,0 +1,2 @@
+# secondclass
+Python fundamentals
