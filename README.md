@@ -1,7 +1,2 @@
-# secondclass
-Python fundamentals
-Exciting 
-We all are excited 
-Hurray 
+# Work from lecture on Labor Day
 
-hashtag ironic
